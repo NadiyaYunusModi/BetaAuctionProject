@@ -1,0 +1,7 @@
+{
+  "name": "AuctionBaba - Bank Vehicle Auction Platform",
+  "description": "A production-ready vehicle auction platform featuring real-time bidding, KYC verification, Excel-based admin workflows, and state-based access control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
